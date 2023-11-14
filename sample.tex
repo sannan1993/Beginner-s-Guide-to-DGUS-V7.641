@@ -32,8 +32,29 @@
 \tableofcontents
 %to add new line
 \newpage
+\section{Flash Memory}
+The LCD have total of 16MBytes(Mega Bytes) Flash memory for all content including fonts,images,icons,animation etc. This memory is divided into 64 id or subspaces, 0 to 63, each of 256KB size.
 
+The files in the DWIN\_SET folder are stored here for execution. each file in the folder occupies the subspace correspoding to its name, e.g the '1.bin' files goes to the 1 id/subspace and '32.icl' to 32 and so on. If the file is larger then 256KB it will blead to the next regin. For example if '32.icl' is 1 MB, then it will occupie the 32,33,34 and 35 regin.
+\begin{figure}[!htb] %[!htb] is used to place image where it is in editor
+	\centering
+	\includegraphics[width=14cm]{flashMem} 
+	\caption{Dwin LCD memory spaces, and thire usage}
+\end{figure}
 \section{Gray word font}
+\subsection{Creating Font}
+Open DGUS Software, go to welcome '1' and select the grey font generator '2'.
+\begin{figure}[!htb] %[!htb] is used to place image where it is in editor
+	\centering
+	\includegraphics[width=14cm]{grayFont1} 
+	\caption{Dgus software, open the gray font creator.}
+\end{figure}
+Select Font '1' to use and then enable the sizes whcih you want to use '2', the horizontal size is same as the index (size of font) and the vertical is 2 times of horizontal size. You can note which sizes you have with these valves to use in DGUS software. '3' save the font as '1.bin' this will be used as 'Font ID' in software.
+\begin{figure}[!htb] %[!htb] is used to place image where it is in editor
+	\centering
+	\includegraphics[width=14cm]{grayFont2} 
+	\caption{Creation process of grayfont}
+\end{figure}
 
 It is created using software Gray word library generator from DWIN. It has greater experience than 0 word font. For gray word font we have to use 8bit encapsulation.
 
@@ -49,7 +70,6 @@ It is created using software Gray word library generator from DWIN. It has great
 	\includegraphics[width=14cm]{encoding} 
 	\caption{This picture encoding settings.}
 \end{figure}
-
 
 
 %this is how to go on new page
