@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Gray word font}{2}{}%
+\contentsline {section}{\numberline {2}data send serially}{3}{}%
+\contentsline {section}{\numberline {3}page change from synchrodata return}{4}{}%
+\contentsline {section}{\numberline {4}Save variable in Nor Flash}{5}{}%

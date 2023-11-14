@@ -1,0 +1,188 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.9)  1 FEB 2023 12:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./sample.tex
+(sample.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (D:\sannan\Miktex\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(D:\sannan\Miktex\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\sannan\Miktex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\sannan\Miktex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\sannan\Miktex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\sannan\Miktex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\sannan\Miktex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\sannan\Miktex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\sannan\Miktex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+
+LaTeX Warning: Unused global option(s):
+    [A4].
+
+(sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (D:\sannan\Miktex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen141
+\scratchbox=\box52
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen142
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (D:\sannan\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\sannan\Miktex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+ [1
+
+{C:/Users/WIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (sample.toc)
+\tf@toc=\write3
+\openout3 = `sample.toc'.
+
+ [1]
+<images//grayFont.png, id=11, 1264.725pt x 620.3175pt>
+File: images//grayFont.png Graphic file (type png)
+<use images//grayFont.png>
+Package pdftex.def Info: images//grayFont.png  used on input line 43.
+(pdftex.def)             Requested size: 398.33858pt x 195.37265pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+<images//encoding.png, id=13, 730.22812pt x 306.39468pt>
+File: images//encoding.png Graphic file (type png)
+<use images//encoding.png>
+Package pdftex.def Info: images//encoding.png  used on input line 49.
+(pdftex.def)             Requested size: 398.33858pt x 167.13841pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+[2 <./images//grayFont.png> <./images//encoding.png>]
+<images//autoupload.png, id=19, 521.69907pt x 309.40594pt>
+File: images//autoupload.png Graphic file (type png)
+<use images//autoupload.png>
+Package pdftex.def Info: images//autoupload.png  used on input line 65.
+(pdftex.def)             Requested size: 284.52756pt x 168.748pt.
+
+Overfull \hbox (11.32361pt too wide) in paragraph at lines 69--71
+[]\OT1/cmr/m/n/12 following im-age shows the com-mand through which data can be
+ send/receive
+ []
+
+<images//receive.png, id=20, 365.86688pt x 177.66376pt>
+File: images//receive.png Graphic file (type png)
+<use images//receive.png>
+Package pdftex.def Info: images//receive.png  used on input line 75.
+(pdftex.def)             Requested size: 284.52756pt x 138.17323pt.
+[3 <./images//autoupload.png> <./images//receive.png>]
+<images//pageChageCommand.png, id=27, 1662.21pt x 834.11626pt>
+File: images//pageChageCommand.png Graphic file (type png)
+<use images//pageChageCommand.png>
+Package pdftex.def Info: images//pageChageCommand.png  used on input line 88.
+(pdftex.def)             Requested size: 398.33858pt x 199.88652pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 88--89
+ [][] 
+ []
+
+[4 <./images//pageChageCommand.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<images//NorFlash.png, id=31, 1897.0875pt x 1030.85126pt>
+File: images//NorFlash.png Graphic file (type png)
+<use images//NorFlash.png>
+Package pdftex.def Info: images//NorFlash.png  used on input line 106.
+(pdftex.def)             Requested size: 398.33858pt x 216.45369pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 106--107
+ [][] 
+ []
+
+[5 <./images//NorFlash.png>] (sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 1363 strings out of 478338
+ 22703 string characters out of 2849839
+ 319488 words of memory out of 3000000
+ 19830 multiletter control sequences out of 15000+600000
+ 472029 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,243b,232s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<D:/sannan/Miktex/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><D:/sannan/Miktex/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><D:/sannan/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/sannan/Mikte
+x/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on sample.pdf (6 pages, 972280 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
